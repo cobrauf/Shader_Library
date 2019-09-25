@@ -15,3 +15,6 @@
 
 [OutlineWithAlpha](Assets/_Shaders/AmplifyShaders/OutlineWithAlpha.shader)\
 ![OutlineWithAlpha](https://user-images.githubusercontent.com/30673142/65354934-9b1d8280-dba5-11e9-85a2-926e3c333478.png)
+
+[Glass](Assets/_Shaders/AmplifyShaders/Glass.shader)\
+![Glass](https://user-images.githubusercontent.com/30673142/65645874-fbe5fa00-dfad-11e9-90fb-dff3d745eadc.png)
