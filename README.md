@@ -9,3 +9,9 @@
 
 [Xray](Assets/_Shaders/AmplifyShaders/Xray.shader)\
 ![Xray](https://user-images.githubusercontent.com/30673142/65168706-eeeb6880-d9f9-11e9-9f1b-35f9a108510c.png)
+
+[TwoSided](Assets/_Shaders/AmplifyShaders/TwoSided.shader)\
+![TwoSided](https://user-images.githubusercontent.com/30673142/65354899-8ccf6680-dba5-11e9-997e-360cdbb0494a.png)
+
+[OutlineWithAlpha](Assets/_Shaders/AmplifyShaders/OutlineWithAlpha.shader)\
+![OutlineWithAlpha](https://user-images.githubusercontent.com/30673142/65354934-9b1d8280-dba5-11e9-85a2-926e3c333478.png)
