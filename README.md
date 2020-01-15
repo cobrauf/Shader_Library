@@ -27,3 +27,6 @@
 
 [Distance Reveal](Assets/_Shaders/AmplifyShaders/DistanceReveal.shader)\
 ![distanceReveal](https://user-images.githubusercontent.com/30673142/72477762-1f26f600-37a5-11ea-95f4-cb75d756827e.gif)
+
+[Translucent](Assets/_Shaders/AmplifyShaders/Translucent.shader)\
+![translucency](https://user-images.githubusercontent.com/30673142/72478375-b50f5080-37a6-11ea-8bac-16d40f77f6d3.gif)
