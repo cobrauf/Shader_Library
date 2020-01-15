@@ -21,3 +21,9 @@
 
 [Rimlight](Assets/_Shaders/AmplifyShaders/Rimlight.shader)\
 ![Rimlight](https://user-images.githubusercontent.com/30673142/65646528-30f34c00-dfb0-11e9-9ea3-e3287e5c24ba.png)
+
+[Voronoi Noise](Assets/_Shaders/AmplifyShaders/Voronoi.shader)\
+![voronoi](https://user-images.githubusercontent.com/30673142/72477208-dfabda00-37a3-11ea-8e7d-11ccd2b2cfd6.gif)
+
+[Distance Reveal](Assets/_Shaders/AmplifyShaders/DistanceReveal.shader)\
+![distanceReveal](https://user-images.githubusercontent.com/30673142/72477762-1f26f600-37a5-11ea-95f4-cb75d756827e.gif)
