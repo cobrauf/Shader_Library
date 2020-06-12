@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: ComplexToon
-  m_Shader: {fileID: 4800000, guid: 2c55131c10f7a694e9d0c969293e5cf7, type: 3}
+  m_Name: Translucent
+  m_Shader: {fileID: 4800000, guid: 89fc81d4085c98a44a98b18f6d30c9c6, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -51,6 +51,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 2800000, guid: c36fd7084e6e19941b8533195b208d26, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _NormalMap:
         m_Texture: {fileID: 2800000, guid: c36fd7084e6e19941b8533195b208d26, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -64,7 +68,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _TextureSample0:
-        m_Texture: {fileID: 2800000, guid: 05c6f1075b36a9c4b923bf6c97eb28dc, type: 3}
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample1:
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _texcoord:
@@ -88,12 +96,18 @@ Material:
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
+    - _TransAmbient: 0.2
+    - _TransDirect: 1
+    - _TransNormalDistortion: 0.168
+    - _TransScattering: 2.3
+    - _TransShadow: 1
+    - _Translucency: 2
     - _UVSec: 0
     - _ZWrite: 1
     - __dirty: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _Color0: {r: 1, g: 0.16933702, b: 0, a: 0}
+    - _Color0: {r: 1, g: 0.57254905, b: 0.48584908, a: 1}
     - _Color1: {r: 0.17895651, g: 1, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _RimColor: {r: 1, g: 0.8414035, b: 0.3726415, a: 0}
