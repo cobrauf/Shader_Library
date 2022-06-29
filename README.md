@@ -30,3 +30,6 @@
 
 [Translucent](Assets/_Shaders/AmplifyShaders/Translucent.shader)\
 ![translucency](https://user-images.githubusercontent.com/30673142/72478375-b50f5080-37a6-11ea-8bac-16d40f77f6d3.gif)
+
+[Smear](Assets/_Shaders/AmplifyShaders/SmearHologram.shader)\
+![smear](https://user-images.githubusercontent.com/30673142/176448820-4694ff28-d9c1-4d35-bcff-5638cf142354.gif)
