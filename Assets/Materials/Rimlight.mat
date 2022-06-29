@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Rimlight
-  m_Shader: {fileID: 4800000, guid: 0f4a8b6c3853ddd439fe587b86e5da44, type: 3}
+  m_Shader: {fileID: 4800000, guid: 31035ce0fa54ddd4ab2334228c448090, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -79,8 +79,16 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _Pattern:
+        m_Texture: {fileID: 2800000, guid: 7031b7beeb0d84b4db7f5ba936bc8a0c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _TextureSample0:
         m_Texture: {fileID: 2800000, guid: 05c6f1075b36a9c4b923bf6c97eb28dc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WaveEffect:
+        m_Texture: {fileID: 2800000, guid: 7031b7beeb0d84b4db7f5ba936bc8a0c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _texcoord:
@@ -90,7 +98,7 @@ Material:
     m_Floats:
     - _AnimateSpeed: 0
     - _BumpScale: 1
-    - _Cutoff: 0.5
+    - _Cutoff: 0.67
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _GlossMapScale: 1
@@ -98,15 +106,21 @@ Material:
     - _GlossyReflections: 1
     - _Metallic: 0
     - _Mode: 0
+    - _NoiseHeightScale: 0.5
+    - _NoiseInfluence: 0.5
+    - _NoiseTilling: 5
     - _OcclusionStrength: 1
     - _Parallax: 0.02
     - _Power: 0.7393361
-    - _RimPower: 2
+    - _RimPower: 1
     - _ShadowOffset: 0.5
+    - _ShieldBrightness: 1
+    - _SmearIntensity: 500
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _UVSec: 0
+    - _WaveSpeed: 0.1
     - _ZWrite: 1
     - __dirty: 1
     m_Colors:
@@ -115,4 +129,5 @@ Material:
     - _Color1: {r: 0.17895651, g: 1, b: 0, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _RimColor: {r: 1, g: 0.90144104, b: 0.2028302, a: 0}
+    - _ShieldColor: {r: 0.1693339, g: 0.7941176, b: 0.4580271, a: 1}
     - _Tint: {r: 1, g: 0.495283, b: 0.495283, a: 0}
