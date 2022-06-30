@@ -37,6 +37,6 @@
 [FractalDissolve](Assets/_Shaders/AmplifyShaders/FractalDissolve.shader)\
 ![fractalDissolve](https://user-images.githubusercontent.com/30673142/176683065-c80f0f05-ed43-4855-a7ce-bbb09c8849de.gif)
 
-[PatternFill](Assets/_Shaders/AmplifyShaders/PatterFill.shader)\
+[PatternFill](Assets/_Shaders/AmplifyShaders/PatternFill.shader)\
 ![patternFill](https://user-images.githubusercontent.com/30673142/176694123-0d36eb84-250e-491e-94b2-8256bc8ed448.gif)
 
