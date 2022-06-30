@@ -76,8 +76,8 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _BandFrequency: 6.92
-    - _BandThickness: 0.509
+    - _BandFrequency: 7
+    - _BandThickness: 0.5
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
@@ -108,17 +108,17 @@ Material:
     - _SpeedDirection: 3.7
     - _SrcBlend: 1
     - _TESSS: 10
-    - _Telelport: 0.7
+    - _Telelport: -3.09
     - _TeleportInGradient: 0
-    - _TeleportOutGradient: 2.06
+    - _TeleportOutGradient: 5
     - _TimeScale: -5.029355
     - _ToggleSwitch0: 0
     - _UVSec: 0
-    - _VertexOffset: 0
+    - _VertexOffset: 0.5
     - _ZWrite: 1
     - __dirty: 0
     m_Colors:
     - _Color: {r: 1, g: 0.051470578, b: 0.051470578, a: 0}
     - _Color0: {r: 1, g: 0.051470578, b: 0.051470578, a: 0}
-    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissionColor: {r: 1, g: 0.59364146, b: 0, a: 1}
     - _Tiling: {r: 50, g: 50, b: 0, a: 0}
