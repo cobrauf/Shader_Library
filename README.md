@@ -40,3 +40,6 @@
 [PatternFill](Assets/_Shaders/AmplifyShaders/PatternFill.shader)\
 ![patternFill](https://user-images.githubusercontent.com/30673142/176694123-0d36eb84-250e-491e-94b2-8256bc8ed448.gif)
 
+[Potion](Assets/_Shaders/AmplifyShaders/Potion.shader)\
+![potion](https://user-images.githubusercontent.com/30673142/176899057-8367b164-4ff6-4c0d-8619-34795861c322.gif)
+
