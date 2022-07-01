@@ -42,3 +42,7 @@
 
 [Potion](Assets/_Shaders/AmplifyShaders/Potion.shader)\
 ![potion](https://user-images.githubusercontent.com/30673142/176900422-69aac8a6-1195-483a-bac1-1db6e51d7075.gif)
+
+[Crytal](Assets/_Shaders/AmplifyShaders/Crystal.shader)\
+![crystal](https://user-images.githubusercontent.com/30673142/176904513-9cb2412d-6dd4-42bb-947b-33889cb77ca7.gif)
+
