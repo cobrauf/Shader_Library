@@ -72,7 +72,7 @@ Shader "ASE/A_Custom/Crystal"
 
 		ENDCG
 		CGPROGRAM
-		#pragma surface surf Standard keepalpha fullforwardshadows exclude_path:deferred 
+		#pragma surface surf Standard keepalpha fullforwardshadows exclude_path:deferred
 
 		ENDCG
 		Pass
