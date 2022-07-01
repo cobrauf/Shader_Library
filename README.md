@@ -35,7 +35,7 @@
 ![smear](https://user-images.githubusercontent.com/30673142/176448820-4694ff28-d9c1-4d35-bcff-5638cf142354.gif)
 
 [FractalDissolve](Assets/_Shaders/AmplifyShaders/FractalDissolve.shader)\
-![fractalDissolve](https://user-images.githubusercontent.com/30673142/176683065-c80f0f05-ed43-4855-a7ce-bbb09c8849de.gif)
+![fractalDissolve](https://user-images.githubusercontent.com/30673142/176901306-c0979dad-59c5-4c94-aaf6-6af2d8e85cf5.gif)
 
 [PatternFill](Assets/_Shaders/AmplifyShaders/PatternFill.shader)\
 ![patternFill](https://user-images.githubusercontent.com/30673142/176900939-3a0e8d83-3b34-4bd9-bd37-ec2bd1634b47.gif)
